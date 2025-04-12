@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (12.0.0)
+    chunky_png (1.4.0)
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  bundler (>= 2.0.0)
+  byebug
+  chunky_png
+
+RUBY VERSION
+   ruby 3.4.2p28
+
+BUNDLED WITH
+   2.6.2
